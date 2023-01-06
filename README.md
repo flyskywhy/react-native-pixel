@@ -1,13 +1,5 @@
 Pixel
 ---
-<p align="right">
-  <a href="https://www.npmjs.com/package/pixel">
-    <img alt="Npm version" src="https://badge.fury.io/js/pixel.svg">
-  </a>
-  <a href="https://travis-ci.org/59naga/pixel">
-    <img alt="Build Status" src="https://travis-ci.org/59naga/pixel.svg?branch=master">
-  </a>
-</p>
 
 > Get ImageData in cross-platform
 
@@ -19,14 +11,6 @@ Installation
 $ yarn add pixel
 # or
 $ npm install pixel --save
-```
-
-## for Browser
-```html
-<script src="https://unpkg.com/pixel"></script>
-<script>
-  console.log(pixel); //function
-</script>
 ```
 
 API
