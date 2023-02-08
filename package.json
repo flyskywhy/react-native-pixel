@@ -1,7 +1,7 @@
 {
-  "name": "pixel",
-  "version": "0.1.3",
-  "description": "Parse file to ImageData in cross-platform",
+  "name": "react-native-pixel-image",
+  "version": "1.0.0",
+  "description": "Parse image file to ImageData for React Native",
   "main": "index.js",
   "scripts": {
     "start": "abby format, test --watch \"*.js\"",
@@ -21,5 +21,34 @@
     "fixture-images": "^0.1.5"
   },
   "author": "59naga <i59naga@icloud.com>",
-  "license": "MIT"
+  "contributors": [
+    {
+      "name": "Li Zheng",
+      "email": "flyskywhy@gmail.com",
+      "url": "https://github.com/flyskywhy"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-pixel-image/issues"
+  },
+  "homepage": "https://github.com/flyskywhy/react-native-pixel-image#readme",
+  "keywords": [
+    "animated",
+    "apng",
+    "bmp",
+    "decode",
+    "gif",
+    "image",
+    "imagedata",
+    "jpg",
+    "pixel",
+    "png",
+    "react-native",
+    "webp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-pixel-image.git"
+  }
 }
