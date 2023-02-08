@@ -1,9 +1,9 @@
-import pixelUtil from 'pixel-util';
-import gif from 'pixel-gif';
-import jpg from 'pixel-jpg';
-import png from 'pixel-png';
-import bmp from 'pixel-bmp';
-import { parse as webpParse } from 'pixel-webp';
+import pixelUtil from 'react-native-pixel-util';
+import gif from 'react-native-pixel-gif';
+import jpg from 'react-native-pixel-jpg';
+import png from 'react-native-pixel-png';
+import bmp from 'react-native-pixel-bmp';
+import {parse as webpParse} from 'react-native-pixel-webp';
 
 export default async file => {
   const types = await pixelUtil.detect(file);

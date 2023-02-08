@@ -1,7 +1,7 @@
 import spec from 'eastern';
 import assert, { equal } from 'assert';
 import fixtures from 'fixture-images';
-import pixelUtil from 'pixel-util';
+import pixelUtil from 'react-native-pixel-util';
 import parse from './';
 
 if (typeof ImageData === 'undefined') {

@@ -8,12 +8,12 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "pixel-bmp": "^0.0.1",
-    "pixel-gif": "^0.0.1",
-    "pixel-jpg": "^0.0.1",
-    "pixel-png": "^0.0.1",
-    "pixel-util": "^0.0.2",
-    "pixel-webp": "^0.0.0"
+    "react-native-pixel-bmp": "^1.0.1",
+    "react-native-pixel-gif": "^1.0.5",
+    "react-native-pixel-jpg": "^1.0.1",
+    "react-native-pixel-png": "^1.0.2",
+    "react-native-pixel-util": "^1.1.1",
+    "react-native-pixel-webp": "^1.0.3"
   },
   "devDependencies": {
     "abigail": "^1.9.5",
