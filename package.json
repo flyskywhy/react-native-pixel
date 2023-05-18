@@ -1,6 +1,6 @@
 {
   "name": "react-native-pixel-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse image file to ImageData for React Native",
   "main": "index.js",
   "scripts": {
