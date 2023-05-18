@@ -11,7 +11,7 @@
     "react-native-pixel-bmp": "^1.0.1",
     "react-native-pixel-gif": "^1.0.5",
     "react-native-pixel-jpg": "^1.0.1",
-    "react-native-pixel-png": "^1.0.2",
+    "react-native-pixel-png": "^1.0.3",
     "react-native-pixel-util": "^1.1.1",
     "react-native-pixel-webp": "^1.0.3"
   },
